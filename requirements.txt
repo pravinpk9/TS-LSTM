@@ -3,7 +3,6 @@ tensorflow
 keras
 matplotlib
 numpy
-pickle
 Flask
 gunicorn
 Werkzeug
