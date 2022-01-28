@@ -3,7 +3,8 @@ tensorflow
 keras
 matplotlib
 numpy
-pickle==3.8
-Flask==1.1.1
-gunicorn==19.9.0
-Werkzeug==0.15.5
+pickle
+Flask
+gunicorn
+Werkzeug
+sklearn
