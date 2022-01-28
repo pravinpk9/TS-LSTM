@@ -3,7 +3,7 @@ tensorflow
 keras
 matplotlib
 numpy
-sklearn-learn==0.15.1
+sklearn-learn
 pickle==3.8
 Flask==1.1.1
 gunicorn==19.9.0
