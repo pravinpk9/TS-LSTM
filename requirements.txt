@@ -6,3 +6,4 @@ Flask
 gunicorn
 Werkzeug
 sklearn
+tensorflow-cpu==2.5.0
