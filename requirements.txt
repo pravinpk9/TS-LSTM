@@ -1,5 +1,4 @@
 pandas
-tensorflow
 keras
 matplotlib
 numpy
