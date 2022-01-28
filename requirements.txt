@@ -8,3 +8,4 @@ sklearn
 pickle
 flask
 gunicorn
+Werkzeug
