@@ -3,7 +3,6 @@ tensorflow
 keras
 matplotlib
 numpy
-math
 sklearn
 pickle
 flask
