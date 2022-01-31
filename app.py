@@ -33,7 +33,6 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET'])
 def model_predict():
-    return "1"
     val1 = request.args['values']
     empty_array = np.array([])
     for i in val1.split(','):
