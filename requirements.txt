@@ -3,7 +3,7 @@ keras
 matplotlib
 numpy
 Flask
-gunicorn
-Werkzeug
+gunicorn==19.9.0
+Werkzeug==0.15.5
 sklearn
 tensorflow-cpu==2.5.0
